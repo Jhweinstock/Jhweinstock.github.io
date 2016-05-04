@@ -1609,6 +1609,7 @@
 	strong, b {
 		font-weight: 400;
 		color: #483949;
+	text-align:center;
 	}
 
 	em, i {
